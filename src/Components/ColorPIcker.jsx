@@ -2,21 +2,19 @@ import { useState } from "react"
 
 export default function ColorPicker() {
 
-    const [color,setColor]=useState('')
-    let screen=document.getElementById('screen')
+    const [color,setColor]=useState('gray')
 
 
   function updateColor(e) {
       setColor(e.target.value) 
-        screen.style.backgroundColor=color
   }
 
 
 
     return (
         <center>
-            <div id="screen" className="card" >Color Picker</div>
-            <input type="color" onChange={updateColor}/>
+            <div id="screen" className="card" style={{backgroundColor:color}} >Color Picker</div>
+            <input type="color"  value={color} onChange={updateColor}/>
         </center>
     )
 }

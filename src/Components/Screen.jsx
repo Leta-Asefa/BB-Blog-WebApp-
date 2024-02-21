@@ -7,7 +7,8 @@ export default function Screen() {
     const [value, setValue] = useState(0)
 
     function increment() {
-        setValue(value + 1)
+        setValue(value+1) 
+          
     }
 
     function decrement() {
