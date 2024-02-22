@@ -2,7 +2,7 @@ import FoodItems from './Components/FoodItems'
 import { useState } from 'react';
 import ToDoList from './Components/ToDoList';
 import UseEffect from './Components/UseEffect';
-import Clock from './Components/DigitalClock';
+import Component_A from './Components/Component_A';
 
 
 function App() {
@@ -10,9 +10,9 @@ function App() {
 
 
   return (
-    <div >
 
-
+    <div className='box'>
+      
     </div>
 
 
