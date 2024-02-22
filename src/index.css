@@ -119,9 +119,23 @@ h4{
     font-size: 20px;
 }
 
+.font-50{
+    font-size: 50px;
+}
 
+.clockContainer{
+    height: 200vh;
+    background-image: url("../public/trees.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 
+}
 
+.position-sticky{
+    position:  sticky;
+}
 
 
 
