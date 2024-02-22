@@ -92,7 +92,10 @@ span{
     border-color: rgb(13, 161, 13);
     box-shadow: 2px 2px 2px rgb(13, 161, 13);
 }
-
+.bg-gray{
+    background-color: gray;
+    font-size: 33px;
+}
 #taskInput{
     border-color:rgb(44, 106, 148);
     background-color: rgb(44, 106, 148);
