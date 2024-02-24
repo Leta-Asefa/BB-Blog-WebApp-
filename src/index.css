@@ -67,13 +67,14 @@
 }
 button{
     margin-left: 10px;
-    border: solid rgb(207, 20, 20) 3px;
+    border: solid transparent 3px;
     border-radius: 20px;
     background-color: rgb(209, 6, 6);
     color: rgb(216, 211, 216);
-    font-size: 18px;
+    font-size: 24px;
     font-weight: bold;
-    box-shadow: 2px 2px 2px rgb(187, 92, 92);
+    box-shadow: 2px 2px 2px rgb(255, 255, 255);
+    color: white;
 }
 button:hover{
     color: white;
@@ -138,13 +139,41 @@ h4{
 }
 
 .box{
+    height: 50vh;
     border: 3px solid black;
     padding: 14px;
 }
 
-
-
-
+.stopwatchcontainer{
+    font-size: 50px;
+    width: 300px;
+    border: 10px rgb(136, 136, 43) white;
+    border-radius: 20px;
+}
+.screen{
+    background-color: yellow;
+    color: black;
+}
+.buttonContainer{
+    background-color: #ebca11;
+    padding-bottom: 15px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px ;
+}
+.start{
+    background-color: green;
+}
+.end{
+    background-color: red;
+}
+.reset{
+    background-color: blue;
+}
 
 
 
