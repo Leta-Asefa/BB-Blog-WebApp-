@@ -1,0 +1,94 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "React",
+      "body": "write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here",
+      "author": "James Bond"
+    },
+    {
+      "id": "2",
+      "title": "Bootstrap",
+      "body": "write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here",
+      "author": "Maron Garry"
+    },
+    {
+      "id": "3",
+      "title": "TailwindCss",
+      "body": "write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here",
+      "author": "Elon Doje"
+    },
+    {
+      "id": "4",
+      "title": "Jira CMS",
+      "body": "write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here write your blog body here",
+      "author": "Jojo Dairy"
+    },
+    {
+      "id": "5",
+      "title": "Github",
+      "body": "write your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body here",
+      "author": "Alen Bek"
+    },
+    {
+      "id": "1a7f",
+      "title": "React Native",
+      "body": "add Your blog's content here",
+      "author": "Ketty Char"
+    },
+    {
+      "id": "afc7",
+      "title": "Vue Js",
+      "body": "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero facere temporibus ad provident nostrum inventore aspernatur minima omnis cum nam tenetur natus quo ex minus porro alias vitae doloremque consequuntur, quasi nulla tempora eius! Praesentium doloribus cupiditate aliquid perspiciatis laudantium ratione porro veniam ipsam esse, velit, deleniti architecto at? Molestias libero, dolor doloribus soluta animi at magni reprehenderit adipisci cupiditate! Praesentium asperiores provident facere exercitationem tenetur reiciendis, aut repellendus reprehenderit dolorem. Eum maiores, quo iusto asperiores consectetur amet repellat distinctio, sunt quidem delectus consequatur doloribus natus exercitationem accusantium enim dicta. A voluptates quibusdam voluptatibus quae quo! Fugiat facere saepe impedit?",
+      "author": "Thomas Snakara"
+    },
+    {
+      "id": "42a0",
+      "title": "Java || SpringBoot",
+      "body": "some text goes here",
+      "author": "Navin Reddy"
+    },
+    {
+      "id": "319b",
+      "title": "RestAPI",
+      "body": "d",
+      "author": "Josh R."
+    },
+    {
+      "id": "e968",
+      "title": "What is Json ?",
+      "body": "content ...",
+      "author": "Kyle"
+    },
+    {
+      "id": "2aee",
+      "title": "Marketing",
+      "body": "text",
+      "author": "Maron G."
+    },
+    {
+      "id": "44ec",
+      "title": "Diffing Algoritm",
+      "body": "text",
+      "author": "Rose T."
+    },
+    {
+      "id": "0bac",
+      "title": "ExpressJs ",
+      "body": "Vue js is better than React,Java ....",
+      "author": "Buruk Jeldu"
+    },
+    {
+      "id": "f473",
+      "title": "TailwindCss",
+      "body": "write your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body herewrite your blog body herewrite your blog body here write your blog body here",
+      "author": "Elon Jane"
+    },
+    {
+      "id": "129f",
+      "title": "Frontend",
+      "body": "do you know about backend?",
+      "author": "Code Whisper "
+    }
+  ]
+}
